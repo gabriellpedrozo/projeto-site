@@ -1,2 +1,2 @@
 # projeto-site
-Projeto de um site criado durante o curso  de Git e Github
+HTML simples para testas branches, merge e hospedagem do Github para poder aplicar em meus futuros projetos
